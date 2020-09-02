@@ -32,7 +32,7 @@ tags:
 
 在讨论图上的机器学习之前，有必要对”图数据“的确切含义进行更正式的描述。形式上，图$\mathcal{G}=(\mathcal{V}, \mathcal{E})$由一组节点$\mathcal{V}$和这些节点之间的一组边$\mathcal{E}$定义。我们将从节点$u \in \mathcal{V}$到节点$v \in \mathcal{V}$的边表示为$(u, v) \in \mathcal{E}$。在许多情况下，我们只关注简单图，其中每对节点之间最多有一条边，而没有节点与自身之间的边，并且这些边都是无向的，即$(u, v) \in \mathcal{E} \leftrightarrow (v, u) \in \mathcal{E}$。
 
-表示图的一种简便方法是通过邻接矩阵$\mathbf{A} \in \mathbb{R}^{\vert \mathcal{V}\vert \times \vert\mathcal{V}\vert}$。为了用邻接矩阵表示图，我们对图中的节点进行排序，以使每个节点在邻接矩阵中索引特定的行和列。然后，我们可以将边表示为矩阵中的值：如果$(u, v) \in \mathcal{E}$，则$\mathbf{A}[u, v]=1$，否则$\mathbf{A}[u, v]=0$。如果图仅包含无向边，则$\mathbf{A}$是对称矩阵；如果图是有向的（即边方向很重要），则$\mathbf{A}$不一定是对称的。某些图也可以具有加权边，即邻接矩阵中的值是任意实数值，而不是$\{0, 1\}$。例如，蛋白质相互作用图中的加权边可能表示两种蛋白质之间关系的强度。
+表示图的一种简便方法是通过邻接矩阵$\mathbf{A} \in \mathbb{R}^{\vert \mathcal{V}\vert \times \vert\mathcal{V}\vert}$。为了用邻接矩阵表示图，我们对图中的节点进行排序，以使每个节点在邻接矩阵中索引特定的行和列。然后，我们可以将边表示为矩阵中的值：如果$(u, v) \in \mathcal{E}$，则$\mathbf{A}[u, v]=1$，否则$\mathbf{A}[u, v]=0$。如果图仅包含无向边，则$\mathbf{A}$是对称矩阵；如果图是有向的（即边方向很重要），则$\mathbf{A}$不一定是对称的。某些图也可以具有加权边，即邻接矩阵中的值是任意实数值，而不是$\\{0, 1\\}$。例如，蛋白质相互作用图中的加权边可能表示两种蛋白质之间关系的强度。
 
 ### Multi-relational Graphs
 
