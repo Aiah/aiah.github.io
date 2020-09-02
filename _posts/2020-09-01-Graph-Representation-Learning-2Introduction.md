@@ -20,4 +20,4 @@ tags:
 
 <img style="display: block; margin: 0 auto" src="{{site.baseurl}}/img/post_images/Graph-Representation-Learning/1_1graph.png" alt="" />
 
-<div class="caption">图1.1</div>
+<div class="caption">图1.1 著名的Zachary空手道俱乐部网络代表了空手道俱乐部成员之间的友谊关系，这是Wayne W. Zachary在1970年至1972年研究的结果。如果两个人在俱乐部外有交流，则用边将它们连接起来。在Zachary的研究中，俱乐部分为两个部分——以节点0和33为中心——并且Zachary能够根据图结构正确预测节点属于哪个部分。</div>
