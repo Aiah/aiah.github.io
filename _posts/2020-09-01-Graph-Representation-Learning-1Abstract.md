@@ -4,7 +4,7 @@ title:      Graph Representation Learning 图表示学习
 subtitle:   Abstract
 date:       2020-09-01
 author:     Aiah
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-graph.jpg
 catalog: true
 tags:
     - Graph Representation Learning
