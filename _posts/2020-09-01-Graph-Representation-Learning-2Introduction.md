@@ -18,6 +18,6 @@ tags:
 
 图是一种无处不在的数据结构，是一种描述复杂系统的通用语言。一般来说，图只是对象（如节点）的集合，以及这些对象之间的交互（如边）。例如，要讲社交网络编码为图，我们可以使用节点来表示个人，使用边来表示两人是朋友（如图1.1所示）。
 
-<img style="display: block; margin: 0 auto" src="img/post_images/Graph-Representation-Learning/1_1graph.png" alt="" />
+<img style="display: block; margin: 0 auto" src="{{site.baseurl}}/img/post_images/Graph-Representation-Learning/1_1graph.png" alt="" />
 
 <div class="caption">图1.1</div>
