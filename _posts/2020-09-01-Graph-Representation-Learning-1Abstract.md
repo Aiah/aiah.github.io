@@ -25,15 +25,10 @@ tags:
 # 作者介绍
 
 William Hamilton于2018年取得斯坦福大学计算机科学博士学位，现为加拿大麦吉尔大学计算机科学助理教授，同时还担任加拿大高等研究院（CIFAR）人工智能主席以及Mila魁北克AI研究所（Mila AI Institute of Quebec）成员。
-<div align=center>
-<img src="https://mmbiz.qpic.cn/mmbiz_png/KmXPKA19gWicCHicibTZUNIJFK1a0JvhS7iaFckjpib3w8ERd3hsDSNRVB459HjIiaUzDa9VaeWudqqqJo3ma6BtJtMg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" width="300px" />
-</div>
 
 WIlliam在学生时代取得了诸多荣誉，他曾先后荣获2013年度ACM本科生研究者荣誉提名、2014年度加拿大AI协会（CAIAC）最佳AI主题硕士论文奖，以及2018年度斯坦福大学Arthur Samuel最佳计算机科学博士论文奖。
-![](https://mmbiz.qpic.cn/mmbiz_png/KmXPKA19gWicCHicibTZUNIJFK1a0JvhS7iahnNezg8GFKGg6huZFQbqFZQRDj7Z7ONhpTFszC9V5EnZCEdksBpeVA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 他的研究兴趣主要是机器学习、网络科学和自然语言处理的结合应用，目前专注于图表示学习领域的快速发展项目。目前他再Google Scholar上的论文总引用量在5000以上。
-![](https://mmbiz.qpic.cn/mmbiz_png/KmXPKA19gWicCHicibTZUNIJFK1a0JvhS7iaKhYDFBMsicRX19yeEiceYpA9SS1wvGzpPA3Mjz1IXicYicWq9ThU4x9BRw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 # 参考
 [140页，初学者友好，GraphSAGE第一作者William Hamilton新书《图表示学习》开放下载](https://mp.weixin.qq.com/s/ONBqcge8tghDxiZMmpXqxg)

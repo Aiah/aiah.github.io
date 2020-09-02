@@ -1,0 +1,21 @@
+I"<blockquote>
+  <p>Graph Representation Learning是GraphSAGE第一作者William Hamilton的新书，下载地址https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf</p>
+</blockquote>
+
+<h1 id="node-embeddings">Node Embeddings</h1>
+<blockquote>
+  <p>本书的第一部分主要介绍了节点嵌入的内容。</p>
+</blockquote>
+
+<h2 id="neighborhood-reconstruction-mehods">Neighborhood Reconstruction Mehods</h2>
+
+<blockquote>
+  <p>在本章中，作者简述了简单图和加权图的节点嵌入方法。</p>
+</blockquote>
+
+<h2 id="multi-relational-data-and-knowledge-graphs">Multi-relational Data and Knowledge Graphs</h2>
+
+<blockquote>
+  <p>在本章中，作者介绍了用于多关系图的类比嵌入方法，同时还简要介绍了知识图谱的相关内容。</p>
+</blockquote>
+:ET
