@@ -26,7 +26,7 @@ tags:
 
 [William Hamilton](https://www.cs.mcgill.ca/~wlh/)于2018年取得斯坦福大学计算机科学博士学位，现为加拿大麦吉尔大学计算机科学助理教授，同时还担任加拿大高等研究院（CIFAR）人工智能主席以及Mila魁北克AI研究所（Mila AI Institute of Quebec）成员。
 
-<img style="display: block; margin: 0 auto;" src="https://www.cs.mcgill.ca/~wlh/images/profile_medium.jpg" alt="" />
+<img style="display: block; margin: 0 auto; width: 300px" src="https://www.cs.mcgill.ca/~wlh/images/profile_medium.jpg" alt="" />
 
 WIlliam在学生时代取得了诸多荣誉，他曾先后荣获2013年度ACM本科生研究者荣誉提名、2014年度加拿大AI协会（CAIAC）最佳AI主题硕士论文奖，以及2018年度斯坦福大学Arthur Samuel最佳计算机科学博士论文奖。
 
