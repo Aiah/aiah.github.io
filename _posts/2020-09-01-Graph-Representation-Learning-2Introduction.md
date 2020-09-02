@@ -30,4 +30,4 @@ tags:
 
 ## What is a graph?
 
-在讨论图上的机器学习之前，有必要对”图数据“的确切含义进行更正式的描述。形式上，图$\Varrho=(\Nu,\Varepsilon)$
+在讨论图上的机器学习之前，有必要对”图数据“的确切含义进行更正式的描述。形式上，图$\mathcal{G}=(\mathcal{V}, \mathcal{E}$
