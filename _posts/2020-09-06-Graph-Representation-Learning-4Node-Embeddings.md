@@ -2,7 +2,7 @@
 layout:     post
 title:      Graph Representation Learning 图表示学习
 subtitle:   Node Embeddings
-date:       2020-09-01
+date:       2020-09-06
 author:     Aiah
 header-img: img/post-bg-ios9-web.jpg
 catalog: true

@@ -2,7 +2,7 @@
 layout:     post
 title:      Graph Representation Learning 图表示学习
 subtitle:   -- Background and Traditional Approaches
-date:       2020-09-01
+date:       2020-09-04
 author:     Aiah
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
