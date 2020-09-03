@@ -11,7 +11,7 @@ github_repo: "https://github.com/aiah/aiah.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I Love NLP!"
+sidebar-about-description: "There is no description."
 sidebar-avatar: /img/about-myself.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
