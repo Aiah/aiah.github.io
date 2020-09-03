@@ -37,3 +37,5 @@ tags:
 ### Multi-relational Graphs
 
 除了无向、有向和加权边之间的区别，我们还考虑具有不同边类型的图。例如，在表示药物相互作用的图中，我们可能希望不同的边对应于同时服用药物时可能发生的不同的副作用。在这些情况下，我们可以扩展边符号以包括边和关系类型$\tau$，即$(u, \tau, v) \in \mathcal{E}$，并且可以为每个边类型定义一个邻接矩阵$\mathbf{A}_{\tau}$。我们称这类图为多关系图，整个图可以用邻接张量$\mathcal{A} \in \mathbb{R}^{\vert\mathcal{V}\vert \times \vert\mathcal{R}\vert \times \vert\mathcal{V}\vert}$来表示，其中$\mathcal{R}$是关系集。多关系图的两个重要子集是异构（heterogeneous）图和复用（multiplex）图。
+
+<strong>异构图</strong> 在异构图中，节点也有类型，这意味着我们可以将节点集划分为不相交的集合$\mathcal{V}=\mathcal{V}_1 \cup \mathcal{V}_2 \cup \cdots \mathcal{V}_k$，其中$\mathcal{V}_i \cap \mathcal{V} = \emptyset, \forall i \neq j$。异构图中的边通常根据节点类型满足约束条件，最常见的约束条件是某些边仅连接某些类型的节点，即$u, \tau_i, v) \in \mathcal{E} \rightarrow u \in \mathcal{V}_j, v \in \mathcal{V}_k$。例如，在异质生物医学图中，可能存在代表蛋白质的节点，代表药物的节点和代表疾病的节点。代表“治疗”的边只会出现在药物节点和疾病节点之间。类似地，代表“多药副作用”的边只会出现在两个药物节点之间。多部（Multipartite）图是异构图的一种特殊情况，其中边只能连接具有不同类型的节点，即$(u, \tau_i, v) \in \mathcal{E} \rightarrow u \in \mathcal{V}_j, v \in \mathcal{V}_k \wedge j \neq k$。
